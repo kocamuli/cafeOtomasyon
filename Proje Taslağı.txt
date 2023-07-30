@@ -1,0 +1,19 @@
+Menü
+----
+MASALAR  -> MASA NUMARALARI BULUNSUN
+REZERVASYON 
+PAKET SERVİS
+MÜŞTERİLER
+KASA İŞLEMLERİ
+MUTFAK
+PERSONELLER
+KASA
+AYAR
+KİLİT
+ÇIKIŞ
+RAPORLAR
+----
+
+gibi veritabanları oluştur.
+
+Data Source=DESKTOP-LK34PR9;Initial Catalog=dbo_CafeOtomasyon;Integrated Security=True
